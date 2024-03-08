@@ -1,3 +1,8 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+</style>
+
+
 * {
   margin: 0;
   padding: 0;
@@ -23,7 +28,6 @@ body {
 }
 
 #calculator {
-  font-family: Arial, sans-serif;
   background-color: hsl(0, 0%, 15%);
   border-radius: 15px;
   max-width: 500px;
